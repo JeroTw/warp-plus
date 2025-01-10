@@ -45,6 +45,7 @@ var Countries = []string{
 	"SG",
 	"SK",
 	"US",
+	"RU", 
 }
 
 // NoticeEvent represents the notices emitted by tunnel core. It will be passed to
